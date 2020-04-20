@@ -7013,7 +7013,7 @@ var AppModule = (function () {
 }());
 
 function HttpLoaderFactory(http) {
-    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_11__["TranslateHttpLoader"](http, './assets/i18n/', '.json');
+    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_11__["TranslateHttpLoader"](http, './Shopmobile/assets/i18n/', '.json');
 }
 function serverSettingsFactory(provider) {
     return function () { return provider.load(); };
