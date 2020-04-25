@@ -7767,7 +7767,7 @@ var environment = {
     MAP_CARRIER_ICON_LINK: 'http://maps.google.com/mapfiles/kml/pal4/icon54.png',
     DEFAULT_LATITUDE: 42.6459136,
     DEFAULT_LONGITUDE: 23.3332736,
-    GQL_ENDPOINT: 'http://ec2-52-2-19-125.compute-1.amazonaws.com:5555/graphql',
+    GQL_ENDPOINT: 'http://35.178.194.167:5555/graphql',
     GQL_SUBSCRIPTIONS_ENDPOINT: 'ws://35.178.194.167:5050/subscriptions',
     SERVICES_ENDPOINT: 'http://35.178.194.167:5500',
     HTTPS_SERVICES_ENDPOINT: 'https://35.178.194.167:5501',
